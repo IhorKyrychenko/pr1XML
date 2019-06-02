@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE group SYSTEM "group.dtd">
+    <group>
+        <student firstname="Ihor" lastname="Kyrychenko" groupnumber="in-61">
+            <subject title="math" mark="5"></subject>
+           <subject title="english" mark="4"></subject>
+            <subject title="web" mark="4"></subject>
+            <average>5</average>
+        </student>
+        <student firstname="Andrei" lastname="Drus" groupnumber="in-61">
+            <subject title="math" mark="3"></subject>
+            <subject title="english" mark="4"></subject>
+            <average>4</average>
+        </student>
+    <student firstname="Mamaba" lastname="Indus" groupnumber="in-61">
+        <subject title="math" mark="5"></subject>
+        <subject title="english" mark="3"></subject>
+        <average>4</average>
+
+    </student>
+
+    </group>

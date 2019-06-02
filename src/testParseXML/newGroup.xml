@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<group>
+<student firstname="Ihor" groupnumber="in-61" lastname="Kyrychenko">
+<subject mark="5" title="math"/>
+<subject mark="4" title="english"/>
+<subject mark="4" title="web"/>
+<average>4.3</average>
+</student>
+<student firstname="Andrei" groupnumber="in-61" lastname="Drus">
+<subject mark="3" title="math"/>
+<subject mark="4" title="english"/>
+<average>3.5</average>
+</student>
+<student firstname="Mamaba" groupnumber="in-61" lastname="Indus">
+<subject mark="5" title="math"/>
+<subject mark="3" title="english"/>
+<average>4.0</average>
+</student>
+</group>
